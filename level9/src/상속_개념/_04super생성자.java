@@ -20,6 +20,7 @@ public class _04super생성자 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 		Fruit f = new Fruit("사과", 1000, "대구");
 		System.out.println(f.name);
 		System.out.println(f.price);
